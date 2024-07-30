@@ -11,7 +11,8 @@ The tool prioritizes user understanding and adaptability to various complexities
 #
 ### Example Usage
 
-#### Star Topology Conversion Example
+<details><summary>Star Topology Conversion Example</summary>
+<br>
 
 Converting a star topology network into a mesh topology involves transforming a structure where all nodes are individually connected to a central hub into one where each node is interconnected with every other node. In a star topology, a central server node connects directly to each client node, providing a straightforward and efficient means of communication. This setup is easy to manage and troubleshoot since all data traffic passes through the central hub, allowing for centralized control and monitoring. However, the main drawback of a star topology is its single point of failure: if the central server fails, the entire network becomes inoperable.
 
@@ -99,6 +100,45 @@ Mesh Topology
             | /
          Server
 ```
+
+<br>
+</details>
+<details><summary>SpaceX Starlink</summary>
+<br>
+
+```
+Satellites
+     |
+     |
+   Dishy (Starlink Antenna)
+     |
+     | (Ethernet)
+     |
+Power Supply Unit (PoE Injector)
+     |
+     | (Ethernet)
+     |
+Starlink Router --- Wi-Fi Devices
+                 |
+                 | (Optional Ethernet)
+                 |
+             Mesh Network / Personal Router
+```
+
+
+The Starlink network involves a complex infrastructure designed to provide high-speed internet through a constellation of low Earth orbit (LEO) satellites. Here’s a simplified breakdown of the typical setup for a Starlink network:
+
+1. Dishy (Starlink Antenna): This is the primary hardware that communicates with the Starlink satellites. It connects to the satellites in space to receive and send data.
+
+2. Power Supply and Ethernet Adapter: The Dishy is connected to a power supply unit, which often includes a PoE (Power over Ethernet) injector. This setup provides power to the antenna and facilitates data transmission.
+
+3. Starlink Router: The power supply unit is connected to the Starlink router, which then creates a local Wi-Fi network. The router can also connect to a mesh network or other networking devices if needed.
+
+4. Networking Configuration: Users can configure their network using the Starlink app. Some users prefer to use their own routers and networking setups, which can include mesh systems for better coverage. This often involves connecting the Ethernet adapter to their own networking equipment.
+
+
+<br>
+</details>
 
 #
 
