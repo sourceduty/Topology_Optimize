@@ -1016,6 +1016,8 @@ NASCAR Cup Series
 [Process Automation](https://github.com/sourceduty/Process_Automation)
 <br>
 [Process Diagram](https://github.com/sourceduty/Process_Diagram)
+<br>
+[Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
