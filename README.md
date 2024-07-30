@@ -432,7 +432,7 @@ Emotional Process
 Identify Emotion (→) Understand Trigger (→) Assess Intensity (→) Process Emotion (→) Express Emotion (→) Regulate Emotion (→) Reflect on Experience
 ```
 
-Emotions and Feelings
+Emotions and Feelings Tree
 ```
 Joy
  ├── Happiness
@@ -506,6 +506,57 @@ Disgust
  └── Hatred
       ├── Loathing
       └── Revulsion
+```
+
+Emotions and Feelings Graph Topology (Node-Edge List)
+```
+Joy -> Happiness
+Happiness -> Delight
+Happiness -> Elation
+Joy -> Contentment
+Contentment -> Satisfaction
+Joy -> Pride
+Pride -> Accomplishment
+Joy -> Love
+Love -> Affection
+Love -> Compassion
+
+Sadness -> Grief
+Grief -> Sorrow
+Grief -> Mourning
+Sadness -> Melancholy
+Melancholy -> Nostalgia
+Sadness -> Loneliness
+Loneliness -> Isolation
+
+Fear -> Anxiety
+Anxiety -> Unease
+Anxiety -> Apprehension
+Fear -> Nervousness
+Nervousness -> Tension
+Fear -> Worry
+Worry -> Concern
+
+Anger -> Frustration
+Frustration -> Annoyance
+Anger -> Rage
+Rage -> Fury
+Anger -> Irritation
+Irritation -> Agitation
+
+Surprise -> Shock
+Shock -> Amazement
+Surprise -> Astonishment
+Astonishment -> Bewilderment
+Surprise -> Wonder
+Wonder -> Curiosity
+
+Disgust -> Contempt
+Contempt -> Scorn
+Disgust -> Aversion
+Aversion -> Repulsion
+Disgust -> Hatred
+Hatred -> Loathing
 ```
 
 <br>
