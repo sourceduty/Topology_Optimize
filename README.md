@@ -19,25 +19,25 @@ In contrast, a mesh topology offers a robust and resilient alternative by connec
 
 Star Topology
 ```
-         Client1
-            |
-         Client2
-            |
-         Client3
-            |
-         Client4
-            |
-         Client5
-            |
-         Client6
-            |
-         Client7
-            |
-         Client8
-            |
-         Client9
-            |
-         Server
+Client1
+|
+Client2
+|
+Client3
+|
+Client4
+|
+Client5
+|
+Client6
+|
+Client7
+|
+Client8
+|
+Client9
+|
+Server
 ```
 
 Mesh Topology
