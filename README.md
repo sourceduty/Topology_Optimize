@@ -9,7 +9,7 @@
 The tool prioritizes user understanding and adaptability to various complexities, aiming to assist in a wide range of tasks. Whether it's analyzing and optimizing a network diagram, improving a structural model, converting an architectural map, or providing guidance on specific topology-related questions, Topology Optimize ensures clarity and precision. It engages users through a step-by-step process, asking concise questions to gather necessary details and deliver optimal solutions. This approach makes it an invaluable resource for anyone seeking to enhance their architectural and topological projects.
 
 #
-### Example Usage
+### Notes
 
 <details><summary>Star Topology Conversion Example</summary>
 <br>
@@ -289,6 +289,42 @@ Orbital Altitudes:
 Satellites are evenly distributed within each plane.
 ```
 
+#### Inter-Satellite Link (ISL) Network
+
+```
+         +---------------------+
+         |    NOC (Control)    |
+         +----------+----------+
+                    |
++---------------------------------------------+
+|                                             |
+|          Inter-Satellite Links (ISL)        |
+|                 (Mesh Network)              |
+|  +----------------+    +----------------+   |
+|  |    Satellite   |----|    Satellite   |   |
+|  |     (LEO)      |    |     (LEO)      |   |
+|  +-------|--------+    +--------|-------+   |
+|          |                    |             |
+|          |                    |             |
+|  +-------|--------+    +--------|-------+   |
+|  |    Satellite   |----|    Satellite  |    |
+|  |     (LEO)      |    |     (LEO)     |    |
+|  +-------|--------+    +--------|-------+   |
+|          |                    |             |
+|          |                    |             |
+|  +-------+--------+    +--------+-------+   |
+|  |   Ground       |    |    Ground     |    |
+|  |   Station      |    |    Station    |    |
+|  +-------+--------+    +--------+-------+   |
+|          |                    |             |
+|          |                    |             |
+|  +-------+--------+    +--------+-------+   |
+|  | User Terminal  |    | User Terminal |    |
+|  +----------------+    +----------------+   |
+|                                             |
+|                                             |
++---------------------------------------------+
+```
 
 <br>
 </details>
