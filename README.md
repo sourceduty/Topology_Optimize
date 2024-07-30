@@ -265,22 +265,29 @@ The basic overview of the Starlink constellation will show the Earth with severa
               o             o
               \             /
                \           /
-                \         /
+                \ Plane 1 /
                  \       /
-                  \     /
-                   \   /
+                  \     /   Total planes: 72
+                   \   /    Satellites per plane: 22-66
                     \ /
-        (satellite)  Earth (satellite)
-                o         o
+   (satellite)  Earth (satellite)
+              o         o
                     / \
                    /   \
                   /     \
                  /       \
-                /         \
+                / Plane 2 \
                /           \
               /             \
              o               o
           (satellite)   (satellite)
+
+Orbital Altitudes:
+- First Layer: 340 km
+- Second Layer: 550 km
+- Third Layer: 1,200 km
+
+Satellites are evenly distributed within each plane.
 ```
 
 
