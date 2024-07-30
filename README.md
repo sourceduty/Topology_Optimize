@@ -848,7 +848,7 @@ Hierarchical Topology of Emotional Process Interconnections
 
 <br>
 </details>
-<details><summary></summary>
+<details><summary>Streetlight Circuit</summary>
 <br>
 
 A timer-based control system for a streetlight circuit.
