@@ -1018,6 +1018,10 @@ NASCAR Cup Series
 [Process Diagram](https://github.com/sourceduty/Process_Diagram)
 <br>
 [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
+<br>
+[Public Simulator](https://github.com/sourceduty/Public_Simulator)
+<br>
+[Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
