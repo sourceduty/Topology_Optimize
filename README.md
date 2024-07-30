@@ -617,7 +617,7 @@ Emotions
 
 Hierarchical Topology of Emotional Process Interconnections
 ```
-├── Joy ↔ Sadness
+  ├── Joy ↔ Sadness
   │    ├── Love ↔ Grief
   │    └── Pride ↔ Melancholy
   ├── Joy ↔ Fear
