@@ -136,7 +136,6 @@ The Starlink network involves a complex infrastructure designed to provide high-
 
 4. Networking Configuration: Users can configure their network using the Starlink app. Some users prefer to use their own routers and networking setups, which can include mesh systems for better coverage. This often involves connecting the Ethernet adapter to their own networking equipment.
 
-
 <br>
 </details>
 
