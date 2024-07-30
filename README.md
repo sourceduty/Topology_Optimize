@@ -912,6 +912,70 @@ Low-Level Streetlight Circuit
 
 <br>
 </details>
+<details><summary>National Association for Stock Car Auto Racing</summary>
+<br>
+
+#### NASCAR Cup Series
+
+- Overview: The premier series of NASCAR, featuring the top drivers and teams.
+- Cars: These are the most powerful and fastest stock cars in NASCAR.
+- Races: Typically consists of 36 races over the course of the season.
+- Notable Races: Daytona 500, Coca-Cola 600, Brickyard 400.
+
+````
+NASCAR Cup Series
+├── Teams
+│   ├── Team A
+│   │   ├── Driver 1
+│   │   ├── Driver 2
+│   │   └── Crew Chief
+│   ├── Team B
+│   │   ├── Driver 3
+│   │   ├── Driver 4
+│   │   └── Crew Chief
+│   └── Team C
+│       ├── Driver 5
+│       ├── Driver 6
+│       └── Crew Chief
+├── Cars
+│   ├── Specifications
+│   │   ├── Engine Power
+│   │   ├── Aerodynamics
+│   │   └── Safety Features
+│   └── Manufacturers
+│       ├── Chevrolet
+│       ├── Ford
+│       └── Toyota
+├── Races
+│   ├── Daytona 500
+│   ├── Coca-Cola 600
+│   ├── Brickyard 400
+│   └── Others (36 races total)
+├── Points System
+│   ├── Race Points
+│   │   ├── Finishing Position
+│   │   ├── Stage Wins
+│   │   └── Lap Led
+│   └── Playoffs
+│       ├── Round of 16
+│       ├── Round of 12
+│       ├── Round of 8
+│       └── Championship 4
+└── Governance
+    ├── NASCAR Officials
+    │   ├── Race Director
+    │   ├── Stewards
+    │   └── Technical Inspectors
+    └── Rules and Regulations
+        ├── Technical Rules
+        ├── Sporting Rules
+        └── Conduct Rules
+````
+
+Nyoooooooooooom Nyoooooooooooom Nyoooooooooooom!
+
+<br>
+</details>
 
 #
 
