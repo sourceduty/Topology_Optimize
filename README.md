@@ -814,6 +814,41 @@ Hierarchical Topology of Emotional Process Interconnections
 
 <br>
 </details>
+<details><summary>Linear Regression Model Topology</summary>
+<br>
+
+```
+          +--------------+
+          | Input (X)    |
+          +--------------+
+                 |
+                 v
+          +--------------+            +--------------+
+          | Weights (w)  |            | Bias (b)     |
+          +--------------+            +--------------+
+                 |                          |
+                 v                          v
+          +--------------------------------------+
+          |              Summation               |
+          |   (w * X + b) = Predicted (Y_hat)    |
+          +--------------------------------------+
+                              |
+                              v
+                       +--------------+
+                       |  Loss        |
+                       |  Function    |
+                       +--------------+
+                              |
+                              v
+                    +-------------------+
+                    |  Optimization     |
+                    |  Algorithm        |
+                    +-------------------+
+```
+
+
+<br>
+</details>
 
 #
 
