@@ -270,8 +270,8 @@ The basic overview of the Starlink constellation will show the Earth with severa
                   \     /   Total planes: 72
                    \   /    Satellites per plane: 22-66
                     \ /
-   (satellite)  Earth (satellite)
-              o         o
+        (satellite)  Earth (satellite)
+                o         o
                     / \
                    /   \
                   /     \
