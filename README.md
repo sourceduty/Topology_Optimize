@@ -615,6 +615,55 @@ Emotions
             └── Loathing
 ```
 
+Hierarchical Topology of Emotional Process Interconnections
+```
+├── Joy ↔ Sadness
+  │    ├── Love ↔ Grief
+  │    └── Pride ↔ Melancholy
+  ├── Joy ↔ Fear
+  │    ├── Contentment ↔ Anxiety
+  │    └── Happiness ↔ Nervousness
+  ├── Joy ↔ Anger
+  │    ├── Happiness ↔ Frustration
+  │    └── Love ↔ Irritation
+  ├── Joy ↔ Surprise
+  │    ├── Delight ↔ Amazement
+  │    └── Elation ↔ Wonder
+  ├── Joy ↔ Disgust
+  │    ├── Affection ↔ Contempt
+  │    └── Compassion ↔ Aversion
+  ├── Sadness ↔ Fear
+  │    ├── Grief ↔ Anxiety
+  │    └── Loneliness ↔ Nervousness
+  ├── Sadness ↔ Anger
+  │    ├── Grief ↔ Frustration
+  │    └── Melancholy ↔ Rage
+  ├── Sadness ↔ Surprise
+  │    ├── Mourning ↔ Shock
+  │    └── Nostalgia ↔ Wonder
+  ├── Sadness ↔ Disgust
+  │    ├── Sorrow ↔ Contempt
+  │    └── Loneliness ↔ Hatred
+  ├── Fear ↔ Anger
+  │    ├── Anxiety ↔ Frustration
+  │    └── Worry ↔ Irritation
+  ├── Fear ↔ Surprise
+  │    ├── Apprehension ↔ Shock
+  │    └── Unease ↔ Astonishment
+  ├── Fear ↔ Disgust
+  │    ├── Anxiety ↔ Contempt
+  │    └── Worry ↔ Aversion
+  ├── Anger ↔ Surprise
+  │    ├── Rage ↔ Shock
+  │    └── Frustration ↔ Astonishment
+  ├── Anger ↔ Disgust
+  │    ├── Fury ↔ Hatred
+  │    └── Irritation ↔ Aversion
+  ├── Surprise ↔ Disgust
+       ├── Bewilderment ↔ Contempt
+       └── Shock ↔ Repulsion
+```
+
 <br>
 </details>
 
