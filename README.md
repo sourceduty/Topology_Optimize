@@ -254,6 +254,36 @@ in LEO      in LEO      in LEO      in LEO
      Devices            Devices
 ```
 
+#### Satellite Constellation
+
+Basic Overview
+
+The basic overview of the Starlink constellation will show the Earth with several orbital planes of satellites.
+
+```
+          (satellite)   (satellite)
+              o             o
+              \             /
+               \           /
+                \         /
+                 \       /
+                  \     /
+                   \   /
+                    \ /
+        (satellite)  Earth (satellite)
+                o         o
+                    / \
+                   /   \
+                  /     \
+                 /       \
+                /         \
+               /           \
+              /             \
+             o               o
+          (satellite)   (satellite)
+```
+
+
 <br>
 </details>
 
