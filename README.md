@@ -559,6 +559,62 @@ Disgust -> Hatred
 Hatred -> Loathing
 ```
 
+Hierarchical Topology of Emotional Process Flows
+
+```
+Emotions
+  ├── Joy
+  │    ├── Happiness
+  │    │    ├── Delight
+  │    │    └── Elation
+  │    ├── Contentment
+  │    │    └── Satisfaction
+  │    ├── Pride
+  │    │    └── Accomplishment
+  │    └── Love
+  │         ├── Affection
+  │         └── Compassion
+  ├── Sadness
+  │    ├── Grief
+  │    │    ├── Sorrow
+  │    │    └── Mourning
+  │    ├── Melancholy
+  │    │    └── Nostalgia
+  │    └── Loneliness
+  │         └── Isolation
+  ├── Fear
+  │    ├── Anxiety
+  │    │    ├── Unease
+  │    │    └── Apprehension
+  │    ├── Nervousness
+  │    │    └── Tension
+  │    └── Worry
+  │         └── Concern
+  ├── Anger
+  │    ├── Frustration
+  │    │    └── Annoyance
+  │    ├── Rage
+  │    │    └── Fury
+  │    └── Irritation
+  │         └── Agitation
+  ├── Surprise
+  │    ├── Shock
+  │    │    ├── Stun
+  │    │    └── Amazement
+  │    ├── Astonishment
+  │    │    └── Bewilderment
+  │    └── Wonder
+  │         └── Curiosity
+  └── Disgust
+       ├── Contempt
+       │    ├── Scorn
+       │    └── Disdain
+       ├── Aversion
+       │    └── Repulsion
+       └── Hatred
+            └── Loathing
+```
+
 <br>
 </details>
 
