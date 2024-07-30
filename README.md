@@ -972,8 +972,6 @@ NASCAR Cup Series
         └── Conduct Rules
 ````
 
-Nyoooooooooooom Nyoooooooooooom Nyoooooooooooom!
-
 <br>
 </details>
 
