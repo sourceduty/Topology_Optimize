@@ -390,6 +390,39 @@ Let's take an example of a metal recycling facility and optimize its processes. 
 
 <br>
 </details>
+<details><summary>Diagram of Cloud Formation Process</summary>
+<br>
+
+```
+    Sunlight
+       ↓
+    [Sun heats Earth's surface]
+       ↓
+    [Warm air rises]
+       ↓
+    [Air expands and cools adiabatically]
+       ↓
+    [Air cools to its dew point]
+       ↓
+    [Condensation on nuclei]
+       ↓
+    [Cloud formation]
+       ↓
+    [Cloud growth and possible precipitation]
+```
+
+Key Points Illustrated:
+
+- Sunlight Heating Surface: The sun’s energy heats the surface of the Earth, causing the air near the surface to warm up.
+- Warm Air Rising: Warm air, being less dense, rises upwards.
+- Adiabatic Cooling: As the air rises, it expands due to lower pressure at higher altitudes, which leads to cooling.
+- Cooling to Dew Point: The rising air cools to its dew point, the temperature at which the air becomes saturated with moisture.
+- Condensation: Water vapor condenses on small particles in the air (condensation nuclei) such as dust, salt, and other aerosols.
+- Cloud Formation: These tiny water droplets or ice crystals cluster together to form clouds.
+- Cloud Growth: Continued condensation and cooling cause the cloud to grow. If the droplets or ice crystals combine and grow large enough, they may fall as precipitation.
+
+<br>
+</details>
 
 #
 
