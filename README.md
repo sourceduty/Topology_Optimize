@@ -252,7 +252,7 @@ in LEO      in LEO      in LEO      in LEO
         |                  |
      Wi-Fi              Wi-Fi
      Devices            Devices
-``
+```
 
 <br>
 </details>
