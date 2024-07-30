@@ -912,6 +912,33 @@ Low-Level Streetlight Circuit
 
 <br>
 </details>
+<details><summary>10-Node Bus Network</summary>
+<br>
+
+```
+Node1  ---|
+          |
+Node2  ---|   
+          |
+Node3  ---|
+          |
+Node4  ---|
+          |
+Node5  ---|
+          |--- Bus Line
+Node6  ---|
+          |
+Node7  ---|
+          |
+Node8  ---|
+          |
+Node9  ---|
+          |
+Node10 ---|
+```
+         
+<br>
+</details>
 <details><summary>National Association for Stock Car Auto Racing</summary>
 <br>
 
