@@ -423,6 +423,93 @@ Key Points Illustrated:
 
 <br>
 </details>
+<details><summary>Emotional Diagrams</summary>
+<br>
+
+Emotional Process
+
+```
+Identify Emotion (→) Understand Trigger (→) Assess Intensity (→) Process Emotion (→) Express Emotion (→) Regulate Emotion (→) Reflect on Experience
+```
+
+Emotions and Feelings
+```
+Joy
+ ├── Happiness
+ |    ├── Delight
+ |    ├── Elation
+ |    └── Jubilation
+ ├── Contentment
+ |    ├── Satisfaction
+ |    └── Peace
+ ├── Pride
+ |    ├── Accomplishment
+ |    └── Confidence
+ └── Love
+      ├── Affection
+      ├── Adoration
+      └── Compassion
+
+Sadness
+ ├── Grief
+ |    ├── Sorrow
+ |    ├── Mourning
+ |    └── Despair
+ ├── Melancholy
+ |    ├── Nostalgia
+ |    └── Gloom
+ └── Loneliness
+      ├── Isolation
+      └── Abandonment
+
+Fear
+ ├── Anxiety
+ |    ├── Unease
+ |    ├── Apprehension
+ |    └── Panic
+ ├── Nervousness
+ |    ├── Tension
+ |    └── Restlessness
+ └── Worry
+      ├── Concern
+      └── Dread
+
+Anger
+ ├── Frustration
+ |    ├── Annoyance
+ |    └── Irritability
+ ├── Rage
+ |    ├── Fury
+ |    └── Outrage
+ └── Irritation
+      ├── Agitation
+      └── Impatience
+
+Surprise
+ ├── Shock
+ |    ├── Stun
+ |    └── Amazement
+ ├── Astonishment
+ |    ├── Bewilderment
+ |    └── Awe
+ └── Wonder
+      ├── Curiosity
+      └── Fascination
+
+Disgust
+ ├── Contempt
+ |    ├── Scorn
+ |    └── Disdain
+ ├── Aversion
+ |    ├── Repulsion
+ |    └── Distaste
+ └── Hatred
+      ├── Loathing
+      └── Revulsion
+```
+
+<br>
+</details>
 
 #
 
