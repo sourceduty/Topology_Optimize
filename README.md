@@ -394,21 +394,21 @@ Let's take an example of a metal recycling facility and optimize its processes. 
 <br>
 
 ```
-    Sunlight
-       ↓
-    [Sun heats Earth's surface]
-       ↓
-    [Warm air rises]
-       ↓
-    [Air expands and cools adiabatically]
-       ↓
-    [Air cools to its dew point]
-       ↓
-    [Condensation on nuclei]
-       ↓
-    [Cloud formation]
-       ↓
-    [Cloud growth and possible precipitation]
+Sunlight
+↓
+[Sun heats Earth's surface]
+↓
+[Warm air rises]
+↓
+[Air expands and cools adiabatically]
+↓
+[Air cools to its dew point]
+↓
+[Condensation on nuclei]
+↓
+[Cloud formation]
+↓
+[Cloud growth and possible precipitation]
 ```
 
 Key Points Illustrated:
