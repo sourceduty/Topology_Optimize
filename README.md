@@ -32,6 +32,24 @@ Back
 
 This diagram represents a bus seating arrangement with a driver's seat at the very front, followed by rows of passenger seats. Each row consists of two pairs of seats separated by a central aisle, allowing access from the aisle to the seats on either side. The layout continues in a linear fashion from the driver's seat at the front to the last row of seats at the back of the bus, providing a clear view of the seating configuration and aisle placement throughout the bus.
 
+```
+Front
+|
+|  [Driver's Seat] |-----------------| Door
+|                  |
+|  [S1] -- [S2]    |     [S3] -- [S4]
+|  [S5] -- [S6]    |     [S7] -- [S8]
+|  [S9] -- [S10]   |   [S11] -- [S12]
+|  [S13] -- [S14]  |   [S15] -- [S16]
+|  [S17] -- [S18]  |   [S19] -- [S20]
+|  [S21] -- [S22]  |   [S23] -- [S24]
+|  [S25] -- [S26]  |   [S27] -- [S28]
+|  [S29] -- [S30]  |   [S31] -- [S32]
+|                  |
+|                 Door
+Back
+```
+
 #
 ### Toplogy Order
 
