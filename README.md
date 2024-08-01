@@ -1075,6 +1075,8 @@ NASCAR Cup Series
 [Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
 <br>
 [Plain Text](https://github.com/sourceduty/Plain_Text)
+<br>
+[Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
