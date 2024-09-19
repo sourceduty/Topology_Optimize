@@ -1,0 +1,12 @@
+Directory Topology Statistics:
+Total Directories: 1
+Total Files: 4
+Total Size: 268.00 KB
+Unreadable Directories: 0
+Unreadable Files: 0
+
+Example/
+    Example.accdb
+    Example.bmp
+    Example.docx
+    Example.txt
